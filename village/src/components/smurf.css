@@ -1,0 +1,13 @@
+.Smurf {
+    border: 1px solid white;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2% 40% 2% 40%;
+    padding: 2%;
+    border-radius: 5px;
+    /* padding-left: 25%;
+    padding-right: 25%; */
+}
